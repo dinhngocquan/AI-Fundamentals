@@ -4,3 +4,4 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 ## Chapter 1. Exploratory data analysis
 1. numpy_basics: This notebook covers the basics of the NumPy library in Python, including how to create, index, slice, reshape, and modify NumPy arrays.
 2. numpy_operations: This notebook demonstrates fundamental NumPy array operations, including arithmetic operations, universal functions, and statistical methods.
+3. numpy_indexing_boolean: This notebook demonstrates various NumPy array indexing techniques, including basic, slicing, fancy, and boolean indexing.
