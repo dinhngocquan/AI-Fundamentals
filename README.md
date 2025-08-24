@@ -8,3 +8,4 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 4. numpy_array_transposition: This notebook demonstrates how to use NumPy array transposition functions, including .T, np.dot, .transpose(), and .swapaxes().
 5. pandas_series: This notebook contains examples and exercises on Pandas Series, including creation, attributes, indexing, and basic operations on Series.
 6. pandas_dataFrame_basics: This notebook explores the fundamentals of Pandas DataFrames, including creation, indexing, slicing, file I/O, and basic arithmetic operations.
+7. pandas_dataframe_manipulation_and_joins: This notebook demonstrates basic DataFrame manipulation in pandas, including adding/removing columns, merging, and concatenating DataFrames.
