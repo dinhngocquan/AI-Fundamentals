@@ -11,3 +11,4 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 7. pandas_dataframe_manipulation_and_joins: This notebook demonstrates basic DataFrame manipulation in pandas, including adding/removing columns, merging, and concatenating DataFrames.
 8. exploratory_data_analysis: This notebook analyzes the Iris dataset using pandas, covering basic statistics and handling missing values.
 9. pandas_multiindex_groupby_pivot: This notebook demonstrates how to work with MultiIndex DataFrames, perform groupby operations, and use pivot tables in pandas for data summarization and analysis.
+10. basic_matplotlib_visualizations: This notebook contains basic examples of data visualizations using the Matplotlib library, including bar plots, histograms, box plots, and scatter plots.
