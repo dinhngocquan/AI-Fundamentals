@@ -12,3 +12,4 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 8. exploratory_data_analysis: This notebook analyzes the Iris dataset using pandas, covering basic statistics and handling missing values.
 9. pandas_multiindex_groupby_pivot: This notebook demonstrates how to work with MultiIndex DataFrames, perform groupby operations, and use pivot tables in pandas for data summarization and analysis.
 10. basic_matplotlib_visualizations: This notebook contains basic examples of data visualizations using the Matplotlib library, including bar plots, histograms, box plots, and scatter plots.
+11. matplotlib_subplots: This file contains a Matplotlib figure with multiple subplots, demonstrating different types of visualizations including a histogram, a scatter plot, a bar plot, and a line plot.
