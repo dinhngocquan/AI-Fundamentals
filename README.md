@@ -15,3 +15,4 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 11. matplotlib_subplots: This file contains a Matplotlib figure with multiple subplots, demonstrating different types of visualizations including a histogram, a scatter plot, a bar plot, and a line plot.
 12. matplotlib_pandas_seaborn_visualization: This notebook provides examples of basic data visualizations using the Matplotlib and Seaborn libraries in Python, covering various plot types like bar plots, histograms, box plots, line plots, scatter plots, and heatmaps.
 13. pandas_matplotlib_air_quality: This notebook explores air quality data using Pandas and Matplotlib to create various plots including bar plots, histograms, and scatter plots.
+14. data_visualization: This notebook provides basic examples of data visualization using Matplotlib, Pandas, and Seaborn.
