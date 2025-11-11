@@ -16,3 +16,16 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 12. matplotlib_pandas_seaborn_visualization: This notebook provides examples of basic data visualizations using the Matplotlib and Seaborn libraries in Python, covering various plot types like bar plots, histograms, box plots, line plots, scatter plots, and heatmaps.
 13. pandas_matplotlib_air_quality: This notebook explores air quality data using Pandas and Matplotlib to create various plots including bar plots, histograms, and scatter plots.
 14. data_visualization: This notebook provides basic examples of data visualization using Matplotlib, Pandas, and Seaborn.
+## Chapter 2.
+1. discrete_probability_distribution: This notebook covers Discrete probability distribution, focusing on Binomial.
+2. continuous_probability_density: This notebook covers Continuous probability density, focusing on Uniform.
+3. descriptive_statistics: This notebook covers Descriptive statistics, focusing on Sample statistics.
+4. quantile: This notebook covers Quantile, focusing on Standard Normal.
+5. interval_estimation_of_the_mean: This notebook covers Interval Estimation of the Mean, focusing on 90% Confidence Interval.
+6. interval_estimation_of_the_proportion: This notebook covers Interval Estimation of the Proportion.
+7. correlation: This notebook covers Correlation, focusing on Pearson.
+8. hypothesis_test_of_the_means: This notebook covers Hypothesis Test of the Means, focusing on One sample t-test.
+9. summarizing_categorical_variables: This notebook covers Summarizing categorical variables, focusing on Frequency table (One way table).
+10. chisquared_tests: This notebook covers Chi-squared Tests, focusing on For one way table.
+11. chisquared_test_of_variance: This notebook covers Chi-squared test of variance, focusing on Using the acceptance range (region).
+12. f_test_of_variance_ratio: This notebook covers F test of variance ratio, focusing on Using the p-value.
