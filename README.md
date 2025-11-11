@@ -16,7 +16,7 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 12. matplotlib_pandas_seaborn_visualization: This notebook provides examples of basic data visualizations using the Matplotlib and Seaborn libraries in Python, covering various plot types like bar plots, histograms, box plots, line plots, scatter plots, and heatmaps.
 13. pandas_matplotlib_air_quality: This notebook explores air quality data using Pandas and Matplotlib to create various plots including bar plots, histograms, and scatter plots.
 14. data_visualization: This notebook provides basic examples of data visualization using Matplotlib, Pandas, and Seaborn.
-## Chapter 2.
+## Chapter 2. Statistical Analysis & Probability Distributions
 1. discrete_probability_distribution: This notebook covers Discrete probability distribution, focusing on Binomial.
 2. continuous_probability_density: This notebook covers Continuous probability density, focusing on Uniform.
 3. descriptive_statistics: This notebook covers Descriptive statistics, focusing on Sample statistics.
