@@ -30,17 +30,17 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 11. chisquared_test_of_variance: This notebook covers Chi-squared test of variance, focusing on Using the acceptance range (region).
 12. f_test_of_variance_ratio: This notebook covers F test of variance ratio, focusing on Using the p-value.
 ## Chapter 3. Machine Learning - Supervised Learning
-1. linear_regression_with_galton_data: This notebook covers Linear regression with 'Galton' data, focusing on 1.1. Read in data and visualize.
-2. linear_regression_and_diagnostics: This notebook covers Linear regression and diagnostics, focusing on 1.1. Load the 'Boston' dataset from Scikit-Learn.
-3. linear_regression_diagnostics_and_modeling_using_statsmodels_library: This notebook covers Linear regression diagnostics and modeling using StatsModels library, focusing on 1.1. Load the 'Boston' dataset from Scikit-Learn and convert it into a DataFrame.
-4. linear_regression_prediction_and_confidence_interval: This notebook covers Linear regression prediction and confidence interval, focusing on 1.1. Data.
-5. dummy_variable_and_interaction: This notebook covers Dummy variable and interaction, focusing on 1.1. Read in the data.
-6. regularized_regressions: This notebook covers Regularized regressions, focusing on 1.1. Read in data.
-7. classification_with_logistic_regression: This notebook covers Classification with logistic regression, focusing on 1.1. Read in data and explore.
-8. classification_with_tree: This notebook covers Classification with Tree, focusing on 1.1. Read in data.
-9. calssification_with_naive_bayes: This notebook covers Calssification with Naive Bayes, focusing on 1.1. Read in data and explore.
-10. classification_with_knn: This notebook covers Classification with KNN, focusing on 1.1. Read in data.
-11. classification_with_svm: This notebook covers Classification with SVM, focusing on 1.1. Read in data.
-12. compare_the_treelike_algorithms: This notebook covers Compare the Tree-like algorithms, focusing on 1.1. Read in data and explore.
-13. voting_ensemble: This notebook covers Voting Ensemble, focusing on 1.1. Read in data.
-14. bagging_ensemble: This notebook covers Bagging ensemble, focusing on 1.1. Read in data.
+1. linear_regression_with_galton_data: This notebook covers Linear regression with 'Galton' data, focusing on Read in data and visualize.
+2. linear_regression_and_diagnostics: This notebook covers Linear regression and diagnostics, focusing on Load the 'Boston' dataset from Scikit-Learn.
+3. linear_regression_diagnostics_and_modeling_using_statsmodels_library: This notebook covers Linear regression diagnostics and modeling using StatsModels library, focusing on Load the 'Boston' dataset from Scikit-Learn and convert it into a DataFrame.
+4. linear_regression_prediction_and_confidence_interval: This notebook covers Linear regression prediction and confidence interval, focusing on Data.
+5. dummy_variable_and_interaction: This notebook covers Dummy variable and interaction, focusing on Read in the data.
+6. regularized_regressions: This notebook covers Regularized regressions, focusing on Read in data.
+7. classification_with_logistic_regression: This notebook covers Classification with logistic regression, focusing on Read in data and explore.
+8. classification_with_tree: This notebook covers Classification with Tree, focusing on Read in data.
+9. calssification_with_naive_bayes: This notebook covers Calssification with Naive Bayes, focusing on Read in data and explore.
+10. classification_with_knn: This notebook covers Classification with KNN, focusing on Read in data.
+11. classification_with_svm: This notebook covers Classification with SVM, focusing on Read in data.
+12. compare_the_treelike_algorithms: This notebook covers Compare the Tree-like algorithms, focusing on Read in data and explore.
+13. voting_ensemble: This notebook covers Voting Ensemble, focusing on Read in data.
+14. bagging_ensemble: This notebook covers Bagging ensemble, focusing on Read in data.
