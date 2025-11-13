@@ -44,3 +44,9 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 12. compare_the_treelike_algorithms: This notebook covers Compare the Tree-like algorithms, focusing on Read in data and explore.
 13. voting_ensemble: This notebook covers Voting Ensemble, focusing on Read in data.
 14. bagging_ensemble: This notebook covers Bagging ensemble, focusing on Read in data.
+## Chapter 4. Clustering
+1. kmeans_simulated_data.ipynb: This notebook demonstrates K‑Means clustering on simulated data, covering data generation, model fitting, and visualization of clusters.
+2. kmeans_real_data.ipynb: This notebook applies K‑Means clustering to a real dataset (e.g., Iris), illustrating preprocessing steps, algorithm application, and result interpretation.
+3. compare_clustering_algorithms.ipynb: This notebook compares multiple clustering algorithms—K‑Means, Agglomerative, Hierarchical, DBSCAN—highlighting their differences through visualizations and performance metrics.
+4. dimensional_reduction_pca.ipynb: This notebook explores dimensionality reduction using Principal Component Analysis (PCA), including data loading, PCA fitting, variance explanation, and projected data visualization.
+5. numpy_basics.ipynb: This notebook covers the basics of the NumPy library in Python, including how to create, index, slice, reshape, and modify NumPy arrays.
