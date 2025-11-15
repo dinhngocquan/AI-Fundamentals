@@ -54,6 +54,7 @@ Comprehensive AI learning program covering linear algebra, probability, statisti
 1. String_and_RegularExpressions.ipynb: This notebook covers Python string functions and regular expression basics. It demonstrates common string methods (e.g., split, replace), regex metacharacters such as dot, question mark, curly braces, caret, dollar sign, alternation, grouping, and the re.sub() function for pattern replacement.
 2. Advanced_Regex_Examples.ipynb: This notebook provides advanced regular expression examples using Python's re module. It shows how to read data, define helper functions, and apply a custom grep-like function to search patterns within text.
 3. Regex_Groups_and_Capturing.ipynb: This notebook focuses on regex groupingLearning
+## Chapter 6. Neural Network and Deep Learning
 1. TensorFlow_Basics.ipynb: This notebook introduces TensorFlow fundamentals: Hello World example, tensor creation, math operations, matrix functions, and variable handling.
 2. Linear_Regression.ipynb: This notebook demonstrates linear regression with TensorFlow: data loading, cleansing, splitting, model definition, training, evaluation, and prediction.
 3. Softmax_Regression.ipynb: This notebook covers softmax regression (multiclass logistic regression) in TensorFlow: preparing data, defining the model class, fitting, and predicting.
